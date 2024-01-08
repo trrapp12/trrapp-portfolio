@@ -1,4 +1,6 @@
-# Welcome to Remixxx!
+# Welcome to My Portfolio
+
+# Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
 - [Netlify Functions Overview](https://docs.netlify.com/functions/overview)
