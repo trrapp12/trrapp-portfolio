@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome to Remixxx!
 
 - [Remix Docs](https://remix.run/docs)
 - [Netlify Functions Overview](https://docs.netlify.com/functions/overview)
